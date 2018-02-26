@@ -2,4 +2,11 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  box-sizing: border-box;
+  color: #323232;
+}
+
+.Form > input:focus {
+  outline: none;
+  background-color: black;
 }

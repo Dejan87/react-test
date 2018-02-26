@@ -1,0 +1,8 @@
+.Info {
+    width: 200px;
+    margin: 15px auto;
+    border: 1px solid #ccc;
+    padding: 25px;
+    box-shadow: 2px 2px 2px #eee;
+    border-radius: 5px;
+}

@@ -1,0 +1,15 @@
+.Button {
+    background-color: transparent;
+    border: 1px solid #eee;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px 15px;
+    margin: 10px;
+    box-shadow: 2px 2px 2px #eee;
+    transition: color .3s ease-out;
+}
+
+.Button:hover {
+    background-color: #ccc;
+}
