@@ -52,7 +52,7 @@ class Doctors extends Component {
                    <DoctorInfo key={doctor.id} name={doctor.name} speciality={doctor.speciality} />
                ))}
 
-               <DoctorForm change={this.onChangeHandler} />
+               <DoctorForm />
                <Button clicked={this.addDoctorHandler}/>
             </div>
         );

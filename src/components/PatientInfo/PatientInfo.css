@@ -1,0 +1,13 @@
+.Info {
+    width: 300px;
+    margin: 15px auto;
+    border: 1px solid #ccc;
+    padding: 25px;
+    box-shadow: 2px 2px 2px #eee;
+    border-radius: 5px;
+}
+
+select {
+    padding: 10px 15px;
+    margin-top: 20px;
+}
